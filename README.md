@@ -1,10 +1,13 @@
-# Judul PA Bahasa Indonesia
+MONEYQU: MANAJEMEN KEUANGAN PRIBADI BERABASIS ANDROID
 
-Ganti paragraf ini dengan penjelasan singkat mengenai aplikasi. Beri tahu pembaca, repository ini isinya aplikasi apa, siapa target penggunanya, dan apa saja fitur utamanya. Penjelasan dibuat **minimal** 250 karakter. Setelah penjelasan, beri screenshot **maksimal 3** buah. Jika aplikasi belum jadi, screenshot boleh diambil dari Bab 3 (perancangan antarmuka aplikasi).
+Topik aplikasi ini adalah untuk mencatat pemasukan dan pengeluaran keuangan mulai dari kebutuhan pokok,hiburan dan hutang piutang serta mencatat dan mempertimbangkan semua pemasukan pengeluaran untuk masa mendatang agar pengelolaan keuangan menjadi lebih baik. target pengguna dari aplikasi ini ialah orang yang membutuhkan pencatatan keuangan mereka secara digital. Terdapat beberapa fitur yang tersedia dalam aplikasi ini. termasuk fitur input pemasukan dan pengeluaran, fitur dompet untuk menyimpan bebrapa saldo sesuai kebutuhan, fitur transfer untuk memindahkan saldo dompet satu ke dompet lainnya , dan fitur investasi yang dapat membantu pengguna dalam menentukan perencanaan keungan sesuai yang dibutuhkan
 
-Tampilan Utama                              | Tampilan Kata                              | Tampilan Praktik
+Tampilan Utama                              | Tmapilan Dompet                            | Tampilan Investasi
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-<img src="screenshots/pic1.png" width="200">|<img src="screenshots/pic2.png" width="200">|<img src="screenshots/pic3.png" width="200">
+![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/acc919f1-4ceb-482b-a8ef-dde6ba7fdc48)
+|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/090c9fb3-7161-4e6e-9163-e89b244aadbd)
+|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/1627efb3-60b4-40be-9a10-c7460ef41c40)
+
 
 ### Link Berkas PA
 
@@ -14,7 +17,7 @@ Tampilan Utama                              | Tampilan Kata                     
 
 Nama            | Username Github | Posisi
 ----------------|-----------------|-----------
-Nama Mahasiswa1 | usernameMhs1    | Mahasiswa
-Nama Mahasiswa2 | usernameMhs2    | Mahasiswa
-Nama Pembimbing | usernamePbb     | Pembimbing
-Nama Reviewer   | usernameRev     | Reviewer
+Suryana         | Suryana4403     | Mahasiswa
+Amalia Rizkia P | amaliarizkiaputri    | Mahasiswa
+HETTI HIDAYATI | usernamePbb     | Pembimbing
+GANDEVA BAYU SATRYA   | usernameRev     | Reviewer
