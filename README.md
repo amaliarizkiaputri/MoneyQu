@@ -4,9 +4,7 @@ Topik aplikasi ini adalah untuk mencatat pemasukan dan pengeluaran keuangan mula
 
 Tampilan Utama                              | Tmapilan Dompet                            | Tampilan Investasi
 --------------------------------------------|--------------------------------------------|--------------------------------------------
-![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/acc919f1-4ceb-482b-a8ef-dde6ba7fdc48)
-|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/090c9fb3-7161-4e6e-9163-e89b244aadbd)
-|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/1627efb3-60b4-40be-9a10-c7460ef41c40)
+![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/acc919f1-4ceb-482b-a8ef-dde6ba7fdc48)|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/090c9fb3-7161-4e6e-9163-e89b244aadbd)|![image](https://github.com/amaliarizkiaputri/MoneyQu/assets/71371232/1627efb3-60b4-40be-9a10-c7460ef41c40)
 
 
 ### Link Berkas PA
